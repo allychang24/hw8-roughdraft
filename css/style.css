@@ -1,0 +1,14 @@
+body {
+    background-color: #e8ded1;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-gap: 15px;
+}
+img {
+    max-width: 300px;
+    height: auto;
+}
+  
